@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfTech_3_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e8f29808e72741776e794ac8dfd0536133b7996")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfTech_3_4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfTech_3_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
