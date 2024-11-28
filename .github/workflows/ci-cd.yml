@@ -3,10 +3,10 @@
 on:
   push:
     branches:
-      - master  # Запускать на push в основную ветку
+      - main  # Запускать на push в основную ветку
   pull_request:
     branches:
-      - master  # Запускать на pull request в основную ветку
+      - main  # Запускать на pull request в основную ветку
 
 jobs:
   build:
